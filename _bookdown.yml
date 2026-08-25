@@ -1,0 +1,6 @@
+book_filename: "bookdown-202833"
+output_dir: "_book"
+language:
+  ui:
+    chapter_name: "Topic "
+delete_merged_file: true

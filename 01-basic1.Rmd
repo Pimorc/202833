@@ -1,4 +1,4 @@
-# Scientific methods, role of experimental design and statistics in ecological and environmental studies (Scientific methods and download R) {#basic1}
+# Introduction to R {#basic1}
 
 *Pimonrat Tiansawat (Chiang Mai University)*
 
