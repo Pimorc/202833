@@ -40,6 +40,8 @@ if(!require("scales", character.only = TRUE)){
   install.packages("scales", dependencies = TRUE)}
 if(!require("tidyr", character.only = TRUE)){
   install.packages("tidyr", dependencies = TRUE)}
+if(!require("dplyr", character.only = TRUE)){
+  install.packages("dplyr", dependencies = TRUE)}
 
 library(ggplot2)
 library(GGally)
@@ -49,6 +51,7 @@ library(scales)
 library(ggrepel)
 library(factoextra)
 library(kableExtra)
+library(dplyr)
 ```
 
 ## Introduction
