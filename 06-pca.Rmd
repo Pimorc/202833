@@ -58,7 +58,7 @@ library(dplyr)
 
 There are many multivariate data analyses. In this lab, we will focus on Principal component analysis (PCA). We will use a data set from a research study, Doi Suthep's seed morphology [@doisuthep2022final], for our lab session.
 
-PCA is one of the **interdependence techniques** to reduce many variables to a smaller number of composite variables while retaining most information. For PCA, variables must be continuous and have approximately linear relationships with one another. We have tested a linear relationship in the Regression Lab \@ref(regression).
+PCA is one of the **interdependence techniques** to reduce many variables to a smaller number of composite variables while retaining most information. For PCA, variables must be continuous and have approximately linear relationships with one another. We have tested a linear relationship in the Regression Lab \@ref(tests).
 
 ## The Data Set
 
