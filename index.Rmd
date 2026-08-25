@@ -19,12 +19,12 @@ These materials are for the course "Statistics for Bioscience Research" (Course 
 
 The lessons include:-
 
-| Course Contents                                                                                             | Topic | Lab ID     |
-|:------------------------|:----------------------:|------------------------|
-| 1\. Introduction to R | 2                           | Lab \@ref(basic1), \@ref(basic2)  |
-| 2\. Descriptive statistics                                         | 2                           | Lab \@ref(eda1), \@ref(eda2)     |
-| 3\. Statistical tests in R                                                                                        | 1                           | Lab \@ref(tests)     |
-| 4\. Multivariate analyses                                         | 2                           | Lab \@ref(pca), \@ref(lda) |
+| Course Contents | Lab ID     |
+|:------------------------|------------------------|
+| 1\. Introduction to R | Lab \@ref(basic1), \@ref(basic2)  |
+| 2\. Descriptive statistics | Lab \@ref(eda1), \@ref(eda2)     |
+| 3\. Statistical tests in R  | Lab \@ref(tests)|
+| 4\. Multivariate analyses| Lab \@ref(pca), \@ref(lda) |
 
 At the end of this class, students will work on a term project. The students are encourage to use their own dataset. If the students do not have one, the dataset is provided. Please go to Term Project folder for instructions and the dataset. [Click here to download the folder](https://o365cmu-my.sharepoint.com/:f:/g/personal/pimonrat_t_cmu_ac_th/IgDi-NkKPmHaS6mZxEJAsyGWASfgAAGFz3k3ej3UBc-Ezno?e=v0YiCH)
 
