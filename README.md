@@ -3,7 +3,7 @@ These are materials for 202833 class. The number of classes is 14 classes. Each 
 ## Six folders of materials
 - One folder for ppt slides
 - One folder for the term project
-- Four folders for the worksheets
+- .rmd files for each topic and files for publishing
 
 ## Class structure
 1. R intro and 2 basic worksheet = one R intro ppt slide set and two worksheet for 2-3 classes depending on students' progress
